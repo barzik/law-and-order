@@ -12,7 +12,7 @@
   "dependencies": {
     "axios": "^0.21.1",
     "chokidar": "^3.3.0",
-    "node-notifier": "^6.0.0",
+    "node-notifier": "^8.0.1",
     "textract": "^2.4.0"
   }
 }
